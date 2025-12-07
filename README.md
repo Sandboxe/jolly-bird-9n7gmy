@@ -3,14 +3,14 @@ Created with CodeSandbox
 
 # First Time Experimentation with LeopardJS
 
-This project is an exploration into **LeopardJS**, a JavaScript library designed for creating games. The goal was to experiment with the library and create a fun, interactive project. 
+This project is an exploration into **LeopardJS**, a JavaScript library designed for creating games. The goal was to experiment with the library.
 
 You can find more details about LeopardJS in the official documentation:  
 [LeopardJS GitHub Repository](https://github.com/leopard-js/leopard?tab=readme-ov-file#1-leopard-a-javascript-library-for-creating-games)
 
 ### Project: **Hardcore Babycat - 9n7gmy**
 
-This is a simple project created using LeopardJS as a first-time experiment. It is a playful homage to the world of online games and showcases the power of the library.
+This is a simple project created using LeopardJS as a first-time experiment. 
 
 - **Edit Version:** hardcore-babycat-9n7gmy
 
