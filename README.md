@@ -24,5 +24,5 @@ This is a simple project created using LeopardJS as a first-time experiment. It 
 
 [![Edit hardcore-babycat-9n7gmy](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/jolly-bird-9n7gmy)
 
-**Note**: If the button doesn't work, I will provide alternative sharing options to ensure you can still access and explore the project.
+**Note**: If the button doesn't work, I will provide alternative sharing options to ensure you can still access and explore the project (The direct link is https://9n7gmy.csb.app/).
 
